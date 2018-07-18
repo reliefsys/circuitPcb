@@ -1,0 +1,335 @@
+Teardrop Report PCB1.PcbDoc
+On 7/18/2018 at 5:22:38 PM
+
+Pads visited                : 296
+
+Vias visited                : 26
+
+Pad teardrops failed : 0
+
+Pad U3-4(3835.827mil,2260mil)  Top Layer
+Pad U3-1(4064.173mil,2175.354mil)  Top Layer
+Pad U3-2(4064.173mil,2260mil)  Top Layer
+Pad U3-3(4064.173mil,2344.646mil)  Top Layer
+Pad C1-1(4219.999mil,2180.63mil)  Top Layer
+Pad C1-2(4219.999mil,2259.37mil)  Top Layer
+Pad M6-(740mil,-460mil)  Multi-Layer
+Pad M5-(720mil,2570mil)  Multi-Layer
+Pad M4-(-3030mil,2570mil)  Multi-Layer
+Pad M3-(5110mil,2570mil)  Multi-Layer
+Pad M2-(5110mil,-460mil)  Multi-Layer
+Pad M1-(-3030mil,-460mil)  Multi-Layer
+Pad U1-21(-450mil,990mil)  Multi-Layer
+Pad U1-22(-550mil,990mil)  Multi-Layer
+Pad U1-23(-650mil,990mil)  Multi-Layer
+Pad U1-24(-750mil,990mil)  Multi-Layer
+Pad U1-25(-850mil,990mil)  Multi-Layer
+Pad U1-26(-950mil,990mil)  Multi-Layer
+Pad U1-27(-1050mil,990mil)  Multi-Layer
+Pad U1-28(-1150mil,990mil)  Multi-Layer
+Pad U1-29(-1250mil,990mil)  Multi-Layer
+Pad U1-30(-1350mil,990mil)  Multi-Layer
+Pad U1-31(-1450mil,990mil)  Multi-Layer
+Pad U1-32(-1550mil,990mil)  Multi-Layer
+Pad U1-33(-1650mil,990mil)  Multi-Layer
+Pad U1-34(-1750mil,990mil)  Multi-Layer
+Pad U1-35(-1850mil,990mil)  Multi-Layer
+Pad U1-36(-1950mil,990mil)  Multi-Layer
+Pad U1-37(-2050mil,990mil)  Multi-Layer
+Pad U1-38(-2150mil,990mil)  Multi-Layer
+Pad U1-39(-2250mil,990mil)  Multi-Layer
+Pad U1-40(-2350mil,990mil)  Multi-Layer
+Pad U1-20(-450mil,390mil)  Multi-Layer
+Pad U1-19(-550mil,390mil)  Multi-Layer
+Pad U1-18(-650mil,390mil)  Multi-Layer
+Pad U1-17(-750mil,390mil)  Multi-Layer
+Pad U1-16(-850mil,390mil)  Multi-Layer
+Pad U1-15(-950mil,390mil)  Multi-Layer
+Pad U1-14(-1050mil,390mil)  Multi-Layer
+Pad U1-13(-1150mil,390mil)  Multi-Layer
+Pad U1-12(-1250mil,390mil)  Multi-Layer
+Pad U1-11(-1350mil,390mil)  Multi-Layer
+Pad U1-10(-1450mil,390mil)  Multi-Layer
+Pad U1-9(-1550mil,390mil)  Multi-Layer
+Pad U1-8(-1650mil,390mil)  Multi-Layer
+Pad U1-7(-1750mil,390mil)  Multi-Layer
+Pad U1-6(-1850mil,390mil)  Multi-Layer
+Pad U1-5(-1950mil,390mil)  Multi-Layer
+Pad U1-4(-2050mil,390mil)  Multi-Layer
+Pad U1-3(-2150mil,390mil)  Multi-Layer
+Pad U1-2(-2250mil,390mil)  Multi-Layer
+Pad U1-1(-2350mil,390mil)  Multi-Layer
+Pad DS1-1(-2520mil,1730.001mil)  Multi-Layer
+Pad DS1-2(-2420mil,1730.001mil)  Multi-Layer
+Pad DS1-3(-2320mil,1730.001mil)  Multi-Layer
+Pad DS1-4(-2220mil,1730.001mil)  Multi-Layer
+Pad DS1-5(-2120mil,1730.001mil)  Multi-Layer
+Pad DS1-10(-2520mil,2330.001mil)  Multi-Layer
+Pad DS1-9(-2420mil,2330.001mil)  Multi-Layer
+Pad DS1-8(-2320mil,2330.001mil)  Multi-Layer
+Pad DS1-7(-2220mil,2330.001mil)  Multi-Layer
+Pad DS1-6(-2120mil,2330.001mil)  Multi-Layer
+Pad DS2-1(-2000mil,1730.001mil)  Multi-Layer
+Pad DS2-2(-1900mil,1730.001mil)  Multi-Layer
+Pad DS2-3(-1800mil,1730.001mil)  Multi-Layer
+Pad DS2-4(-1700mil,1730.001mil)  Multi-Layer
+Pad DS2-5(-1600mil,1730.001mil)  Multi-Layer
+Pad DS2-10(-2000mil,2330.001mil)  Multi-Layer
+Pad DS2-9(-1900mil,2330.001mil)  Multi-Layer
+Pad DS2-8(-1800mil,2330.001mil)  Multi-Layer
+Pad DS2-7(-1700mil,2330.001mil)  Multi-Layer
+Pad DS2-6(-1600mil,2330.001mil)  Multi-Layer
+Pad R18-1(2600.001mil,120mil)  Multi-Layer
+Pad R18-2(2600.001mil,-280mil)  Multi-Layer
+Pad SW1-1(2750mil,70.001mil)  Multi-Layer
+Pad SW1-2(2750mil,-130mil)  Multi-Layer
+Pad SW1-3(3250mil,-130mil)  Multi-Layer
+Pad SW1-4(3250mil,70.001mil)  Multi-Layer
+Pad R19-1(1930.001mil,120mil)  Multi-Layer
+Pad R19-2(1930.001mil,-280mil)  Multi-Layer
+Pad SW2-1(1260mil,80.001mil)  Multi-Layer
+Pad SW2-2(1260mil,-119.999mil)  Multi-Layer
+Pad SW2-3(1760mil,-119.999mil)  Multi-Layer
+Pad SW2-4(1760mil,80.001mil)  Multi-Layer
+Pad R20-1(-370mil,110mil)  Multi-Layer
+Pad R20-2(-370mil,-290mil)  Multi-Layer
+Pad R21-1(-2059.999mil,120mil)  Multi-Layer
+Pad R21-2(-2059.999mil,-280mil)  Multi-Layer
+Pad SW3-1(-250mil,80.001mil)  Multi-Layer
+Pad SW3-2(-250mil,-119.999mil)  Multi-Layer
+Pad SW3-3(250mil,-119.999mil)  Multi-Layer
+Pad SW3-4(250mil,80.001mil)  Multi-Layer
+Pad SW4-1(-1950mil,80.001mil)  Multi-Layer
+Pad SW4-2(-1950mil,-119.999mil)  Multi-Layer
+Pad SW4-3(-1450mil,-119.999mil)  Multi-Layer
+Pad SW4-4(-1450mil,80.001mil)  Multi-Layer
+Pad R22-1(-2160mil,120.001mil)  Multi-Layer
+Pad R22-2(-2160mil,-280mil)  Multi-Layer
+Pad SW5-1(-2770mil,76.704mil)  Multi-Layer
+Pad SW5-2(-2770mil,-123.296mil)  Multi-Layer
+Pad SW5-3(-2270mil,-123.296mil)  Multi-Layer
+Pad SW5-4(-2270mil,76.704mil)  Multi-Layer
+Pad R23-1(4410.001mil,780mil)  Multi-Layer
+Pad R23-2(4410.001mil,380mil)  Multi-Layer
+Pad R24-1(4300.001mil,780mil)  Multi-Layer
+Pad R24-2(4300.001mil,380mil)  Multi-Layer
+Pad U4-1(-1310mil,1310.001mil)  Multi-Layer
+Pad U4-2(-1210mil,1310.001mil)  Multi-Layer
+Pad U4-3(-1110mil,1310.001mil)  Multi-Layer
+Pad U4-4(-1010mil,1310.001mil)  Multi-Layer
+Pad U4-5(-910mil,1310.001mil)  Multi-Layer
+Pad U4-6(-810mil,1310.001mil)  Multi-Layer
+Pad U4-7(-710mil,1310.001mil)  Multi-Layer
+Pad U4-8(-610mil,1310.001mil)  Multi-Layer
+Pad U4-9(-510mil,1310.001mil)  Multi-Layer
+Pad U4-18(-1310mil,1610.001mil)  Multi-Layer
+Pad U4-17(-1210mil,1610.001mil)  Multi-Layer
+Pad U4-16(-1110mil,1610.001mil)  Multi-Layer
+Pad U4-15(-1010mil,1610.001mil)  Multi-Layer
+Pad U4-14(-910mil,1610.001mil)  Multi-Layer
+Pad U4-13(-810mil,1610.001mil)  Multi-Layer
+Pad U4-12(-710mil,1610.001mil)  Multi-Layer
+Pad U4-11(-610mil,1610.001mil)  Multi-Layer
+Pad U4-10(-510mil,1610.001mil)  Multi-Layer
+Pad R25-1(4190.001mil,780mil)  Multi-Layer
+Pad R25-2(4190.001mil,380mil)  Multi-Layer
+Pad R26-1(3990.001mil,780mil)  Multi-Layer
+Pad R26-2(3990.001mil,380mil)  Multi-Layer
+Pad R27-1(2470.002mil,390mil)  Multi-Layer
+Pad R27-2(2470.002mil,790mil)  Multi-Layer
+Pad L1-2(3010mil,2120.001mil)  Multi-Layer
+Pad L1-1(3010mil,2020.001mil)  Multi-Layer
+Pad R28-1(2580mil,390mil)  Multi-Layer
+Pad R28-2(2580mil,790mil)  Multi-Layer
+Pad L2-2(3010mil,1510.001mil)  Multi-Layer
+Pad L2-1(3010mil,1410.001mil)  Multi-Layer
+Pad R29-1(4090.001mil,780mil)  Multi-Layer
+Pad R29-2(4090.001mil,380mil)  Multi-Layer
+Pad R30-1(2680mil,390mil)  Multi-Layer
+Pad R30-2(2680mil,790mil)  Multi-Layer
+Pad L3-2(3020mil,900mil)  Multi-Layer
+Pad L3-1(3020mil,800mil)  Multi-Layer
+Pad R10-1(370mil,1330mil)  Multi-Layer
+Pad R10-2(370mil,930mil)  Multi-Layer
+Pad R11-1(1050.001mil,210mil)  Multi-Layer
+Pad R11-2(1050.001mil,-190mil)  Multi-Layer
+Pad R12-1(270mil,1330mil)  Multi-Layer
+Pad R12-2(270mil,930mil)  Multi-Layer
+Pad Q1-3(540mil,1100.001mil)  Multi-Layer
+Pad Q1-2(640mil,1200.001mil)  Multi-Layer
+Pad Q1-1(540mil,1300.001mil)  Multi-Layer
+Pad R13-1(950mil,210mil)  Multi-Layer
+Pad R13-2(950mil,-190mil)  Multi-Layer
+Pad Q2-3(1060mil,320mil)  Multi-Layer
+Pad Q2-2(960mil,420mil)  Multi-Layer
+Pad Q2-1(860mil,320mil)  Multi-Layer
+Pad D6-2(-10mil,2370.001mil)  Multi-Layer
+Pad D6-1(-10mil,2270.001mil)  Multi-Layer
+Pad D5-2(-10mil,2010.001mil)  Multi-Layer
+Pad D5-1(-10mil,1910.001mil)  Multi-Layer
+Pad D4-2(-10mil,1680.001mil)  Multi-Layer
+Pad D4-1(-10mil,1580.001mil)  Multi-Layer
+Pad D3-2(-10mil,1310.001mil)  Multi-Layer
+Pad D3-1(-10mil,1210.001mil)  Multi-Layer
+Pad D2-2(-10mil,940mil)  Multi-Layer
+Pad D2-1(-10mil,840mil)  Multi-Layer
+Pad D1-2(-10mil,570mil)  Multi-Layer
+Pad D1-1(-10mil,470mil)  Multi-Layer
+Pad D12-2(1550mil,2380.001mil)  Multi-Layer
+Pad D12-1(1550mil,2280.001mil)  Multi-Layer
+Pad D11-2(1550mil,2020.001mil)  Multi-Layer
+Pad D11-1(1550mil,1920.001mil)  Multi-Layer
+Pad D10-2(1550mil,1680.001mil)  Multi-Layer
+Pad D10-1(1550mil,1580.001mil)  Multi-Layer
+Pad D9-2(1550mil,1310.001mil)  Multi-Layer
+Pad D9-1(1550mil,1210.001mil)  Multi-Layer
+Pad D8-2(1550mil,950mil)  Multi-Layer
+Pad D8-1(1550mil,850mil)  Multi-Layer
+Pad D7-2(1550mil,580mil)  Multi-Layer
+Pad D7-1(1550mil,480mil)  Multi-Layer
+Pad R14-1(280mil,450mil)  Multi-Layer
+Pad R14-2(280mil,850mil)  Multi-Layer
+Pad R15-1(890mil,970mil)  Multi-Layer
+Pad R15-2(490mil,970mil)  Multi-Layer
+Pad R16-1(530mil,400mil)  Multi-Layer
+Pad R16-2(530mil,0mil)  Multi-Layer
+Pad Q3-3(630mil,510mil)  Multi-Layer
+Pad Q3-2(530mil,610mil)  Multi-Layer
+Pad Q3-1(430mil,510mil)  Multi-Layer
+Pad R17-1(890mil,860mil)  Multi-Layer
+Pad R17-2(490mil,860mil)  Multi-Layer
+Pad Q4-3(890mil,1100.001mil)  Multi-Layer
+Pad Q4-2(990mil,1200.001mil)  Multi-Layer
+Pad Q4-1(890mil,1300.001mil)  Multi-Layer
+Pad R1-1(-2660mil,1360.001mil)  Multi-Layer
+Pad R1-2(-3060mil,1360.001mil)  Multi-Layer
+Pad R2-1(-2660mil,1260.001mil)  Multi-Layer
+Pad R2-2(-3060mil,1260.001mil)  Multi-Layer
+Pad U2-1(-2350mil,1170.001mil)  Multi-Layer
+Pad U2-2(-2250mil,1170.001mil)  Multi-Layer
+Pad U2-3(-2150mil,1170.001mil)  Multi-Layer
+Pad U2-4(-2050mil,1170.001mil)  Multi-Layer
+Pad U2-5(-1950mil,1170.001mil)  Multi-Layer
+Pad U2-6(-1850mil,1170.001mil)  Multi-Layer
+Pad U2-7(-1750mil,1170.001mil)  Multi-Layer
+Pad U2-8(-1650mil,1170.001mil)  Multi-Layer
+Pad U2-9(-1550mil,1170.001mil)  Multi-Layer
+Pad U2-18(-2350mil,1470.001mil)  Multi-Layer
+Pad U2-17(-2250mil,1470.001mil)  Multi-Layer
+Pad U2-16(-2150mil,1470.001mil)  Multi-Layer
+Pad U2-15(-2050mil,1470.001mil)  Multi-Layer
+Pad U2-14(-1950mil,1470.001mil)  Multi-Layer
+Pad U2-13(-1850mil,1470.001mil)  Multi-Layer
+Pad U2-12(-1750mil,1470.001mil)  Multi-Layer
+Pad U2-11(-1650mil,1470.001mil)  Multi-Layer
+Pad U2-10(-1550mil,1470.001mil)  Multi-Layer
+Pad R3-1(-2660mil,1160.001mil)  Multi-Layer
+Pad R3-2(-3060mil,1160.001mil)  Multi-Layer
+Pad RP1-1(-1410mil,1190.001mil)  Multi-Layer
+Pad RP1-3(-1210mil,1190.001mil)  Multi-Layer
+Pad RP1-4(-1110mil,1190.001mil)  Multi-Layer
+Pad RP1-5(-1010mil,1190.001mil)  Multi-Layer
+Pad RP1-6(-910mil,1190.001mil)  Multi-Layer
+Pad RP1-7(-810mil,1190.001mil)  Multi-Layer
+Pad RP1-8(-710mil,1190.001mil)  Multi-Layer
+Pad RP1-9(-610mil,1190.001mil)  Multi-Layer
+Pad RP1-2(-1310mil,1190.001mil)  Multi-Layer
+Pad R4-1(-2660mil,1060.001mil)  Multi-Layer
+Pad R4-2(-3060mil,1060.001mil)  Multi-Layer
+Pad R5-1(-2660mil,1460.001mil)  Multi-Layer
+Pad R5-2(-3060mil,1460.001mil)  Multi-Layer
+Pad R6-1(-2660mil,1560.001mil)  Multi-Layer
+Pad R6-2(-3060mil,1560.001mil)  Multi-Layer
+Pad R7-1(-2660mil,960mil)  Multi-Layer
+Pad R7-2(-3060mil,960mil)  Multi-Layer
+Pad R8-1(-2660mil,860mil)  Multi-Layer
+Pad R8-2(-3060mil,860mil)  Multi-Layer
+Pad C2-1(4310mil,2020.001mil)  Multi-Layer
+Pad C2-2(4210mil,2020.001mil)  Multi-Layer
+Pad C3-2(-2690mil,520mil)  Multi-Layer
+Pad C3-1(-2590mil,520mil)  Multi-Layer
+Pad P1-16(4670mil,810mil)  Multi-Layer
+Pad P1-15(4670mil,710mil)  Multi-Layer
+Pad P1-14(4670mil,610mil)  Multi-Layer
+Pad P1-13(4670mil,510mil)  Multi-Layer
+Pad P1-12(4670mil,410mil)  Multi-Layer
+Pad P1-11(4670mil,310mil)  Multi-Layer
+Pad P1-10(4670mil,210mil)  Multi-Layer
+Pad P1-9(4670mil,110.001mil)  Multi-Layer
+Pad P1-8(4770mil,810mil)  Multi-Layer
+Pad P1-7(4770mil,710mil)  Multi-Layer
+Pad P1-6(4770mil,610mil)  Multi-Layer
+Pad P1-5(4770mil,510mil)  Multi-Layer
+Pad P1-4(4770mil,410mil)  Multi-Layer
+Pad P1-3(4770mil,310mil)  Multi-Layer
+Pad P1-2(4770mil,210mil)  Multi-Layer
+Pad P1-1(4770mil,110.001mil)  Multi-Layer
+Pad J1-8(4530mil,1520.001mil)  Multi-Layer
+Pad J1-7(4530mil,1620.001mil)  Multi-Layer
+Pad J1-6(4630mil,1520.001mil)  Multi-Layer
+Pad J1-5(4630mil,1620.001mil)  Multi-Layer
+Pad J1-4(4730mil,1520.001mil)  Multi-Layer
+Pad J1-3(4730mil,1620.001mil)  Multi-Layer
+Pad J1-2(4830mil,1520.001mil)  Multi-Layer
+Pad J1-1(4830mil,1620.001mil)  Multi-Layer
+Pad D13-11(3790mil,2000.001mil)  Multi-Layer
+Pad D13-12(3790mil,1900.001mil)  Multi-Layer
+Pad D13-13(3790mil,1800.001mil)  Multi-Layer
+Pad D13-14(3790mil,1700.001mil)  Multi-Layer
+Pad D13-15(3790mil,1600.001mil)  Multi-Layer
+Pad D13-16(3790mil,1500.001mil)  Multi-Layer
+Pad D13-17(3790mil,1400.001mil)  Multi-Layer
+Pad D13-18(3790mil,1300.001mil)  Multi-Layer
+Pad D13-19(3790mil,1200.001mil)  Multi-Layer
+Pad D13-20(3790mil,1100.001mil)  Multi-Layer
+Pad D13-10(4090mil,2000.001mil)  Multi-Layer
+Pad D13-9(4090mil,1900.001mil)  Multi-Layer
+Pad D13-8(4090mil,1800.001mil)  Multi-Layer
+Pad D13-7(4090mil,1700.001mil)  Multi-Layer
+Pad D13-6(4090mil,1600.001mil)  Multi-Layer
+Pad D13-5(4090mil,1500.001mil)  Multi-Layer
+Pad D13-4(4090mil,1400.001mil)  Multi-Layer
+Pad D13-3(4090mil,1300.001mil)  Multi-Layer
+Pad D13-2(4090mil,1200.001mil)  Multi-Layer
+Pad D13-1(4090mil,1100.001mil)  Multi-Layer
+Pad P3-1(4430mil,1369.999mil)  Multi-Layer
+Pad P3-2(4530mil,1369.999mil)  Multi-Layer
+Pad P3-3(4630mil,1369.999mil)  Multi-Layer
+Pad P3-4(4730mil,1369.999mil)  Multi-Layer
+Pad R9-1(-2360mil,300mil)  Multi-Layer
+Pad R9-2(-2760mil,300mil)  Multi-Layer
+Pad P2-1(-3040mil,710mil)  Multi-Layer
+Pad P2-2(-3040mil,610mil)  Multi-Layer
+Pad P2-3(-3040mil,510mil)  Multi-Layer
+Pad P2-4(-3040mil,410mil)  Multi-Layer
+Pad P2-5(-3040mil,310mil)  Multi-Layer
+
+Via teardrops failed : 0
+
+Via (4480mil,160mil) Top Layer to Bottom Layer
+Via (4240mil,160mil) Top Layer to Bottom Layer
+Via (3560mil,140mil) Top Layer to Bottom Layer
+Via (4130mil,-50mil) Top Layer to Bottom Layer
+Via (4380mil,-300mil) Top Layer to Bottom Layer
+Via (4850mil,920mil) Top Layer to Bottom Layer
+Via (4290mil,530mil) Top Layer to Bottom Layer
+Via (690mil,860mil) Top Layer to Bottom Layer
+Via (4800mil,1060mil) Top Layer to Bottom Layer
+Via (2860mil,410mil) Top Layer to Bottom Layer
+Via (-320mil,1520mil) Top Layer to Bottom Layer
+Via (-2220mil,1930mil) Top Layer to Bottom Layer
+Via (-1900mil,1820mil) Top Layer to Bottom Layer
+Via (-2420mil,1830mil) Top Layer to Bottom Layer
+Via (-1700mil,1940mil) Top Layer to Bottom Layer
+Via (-2220mil,2130mil) Top Layer to Bottom Layer
+Via (-2130mil,2070mil) Top Layer to Bottom Layer
+Via (-1890mil,2200mil) Top Layer to Bottom Layer
+Via (-1700mil,2140mil) Top Layer to Bottom Layer
+Via (-1600mil,2060mil) Top Layer to Bottom Layer
+Via (-2410mil,2180mil) Top Layer to Bottom Layer
+Via (180mil,370mil) Top Layer to Bottom Layer
+Via (2681.36mil,165mil) Top Layer to Bottom Layer
+Via (4214.646mil,2344.646mil) Top Layer to Bottom Layer
+Via (-2520mil,2240.001mil) Top Layer to Bottom Layer
+Via (-2000mil,2240.001mil) Top Layer to Bottom Layer
+
